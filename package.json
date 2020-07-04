@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cadence-abstract/cadence/issues"
   },
-  "homepage": "https://github.com/cadence-abstract/cadence#readme"
+  "homepage": "https://github.com/cadence-abstract/cadence#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
 }
