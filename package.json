@@ -1,0 +1,19 @@
+{
+  "name": "cadence",
+  "version": "1.0.0",
+  "description": "cadence app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cadence-abstract/cadence.git"
+  },
+  "author": "charlie phan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cadence-abstract/cadence/issues"
+  },
+  "homepage": "https://github.com/cadence-abstract/cadence#readme"
+}
